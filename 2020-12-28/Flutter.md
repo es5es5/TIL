@@ -26,3 +26,17 @@ void _changeMessage() {
 ```
 
 흡사 React 와 비슷..
+
+### Body
+
+###### Center 가운데 정렬
+###### Column 아래로 정렬
+###### MainAxisAlignment.center 세로 가운데 정렬
+
+```dart
+body: Center(
+  child: Column(
+mainAxisAlignment: MainAxisAlignment.center,
+```
+
+이런식으로 하면 앱 한 가운데로 옴.
