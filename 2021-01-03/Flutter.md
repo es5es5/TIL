@@ -1,4 +1,4 @@
-# Flutter 중급
+# Flutter Mask
 
 Dart 는 double 이랑 int 랑 호환이 안됨. 그래서 모델링할 땐 안전하게 'num' 타입을 쓰면 됨.
 
