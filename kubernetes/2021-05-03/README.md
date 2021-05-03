@@ -1,6 +1,6 @@
 # Overview
 
-### Kubernetes Study.
+### to study Kubernetes for our Infra.
 
 #### [0. Settings](https://github.com/es5es5/TIL/blob/main/kubernetes/2021-05-03/0.%20Settings.md)
 
